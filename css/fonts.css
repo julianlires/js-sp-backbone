@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Trasandina";
+    src: url("../fonts/TrasandinaRegular.otf");
+}
+
+@font-face {
+    font-family: "Trasandina";
+    src: url("../fonts/TrasandinaRegular-Italic.otf");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Trasandina";
+    src: url("../fonts/TrasandinaBold.otf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Trasandina";
+    src: url("../fonts/TrasandinaLight.otf");
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: "Trasandina";
+    src: url("../fonts/TrasandinaBold-Italic.otf");
+    font-weight: bold;
+    font-style: italic
+}

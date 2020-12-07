@@ -1,0 +1,9 @@
+page-base-view {
+  width: 100%;
+  text-align: center;
+  min-height: 100vh;
+}
+
+page-base-view #el-example {
+  height: 100vh;
+}

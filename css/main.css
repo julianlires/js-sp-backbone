@@ -1,0 +1,53 @@
+/* Fonts */
+@import "fonts.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,700;1,900&display=swap');
+
+/* Pages/Views */
+@import "pages/page_base_view.css";
+@import "pages/page_404.css";
+
+/* Componentts */
+@import "components/custom_button.css";
+
+:root {
+  --primary-1: rgb(0, 165, 211);
+  --primary-2: #c5484c;
+  --primary-3: #c0cd29;
+  --primary-4: #e9be3e;
+  --primary-5: #d37e32;
+
+  --blue: #68a7ca;
+  --blue-darker: #4390bc;
+}
+
+body {
+  background-color: white;
+  /* font-family: Trasandina; */
+  overflow: scroll !important;
+  font-family: 'Roboto';
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+p, h1, h2, h3, h4, h5, span {
+  /* font-family: Trasandina; */
+  font-family: 'Roboto';
+}
+
+.content {
+  width: 100%;
+}
+
+/******************************************************************************/
+/****                            CSS Basics                                ****/
+/******************************************************************************/
+
+.flexbox {
+  display:flex;
+  justify-content:center;
+  /* align-items: center; */
+  flex-flow: column;
+ }
