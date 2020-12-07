@@ -11,4 +11,4 @@ No special requirements. Just HTML, CSS and Javascript, so it works with **any w
 
 MIT
 
-[live-version]: <https://github.com/joemccann/dillinger.git>
+[live-version]: <https://julianlires.github.io/js-sp-backbone>
